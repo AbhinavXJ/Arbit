@@ -41,10 +41,10 @@ add_executable(Arbit
     src/real_cross_asset_arbitrage.cpp
 )
 
-target_include_directories(deviant PRIVATE include)
-target_compile_features(deviant PRIVATE cxx_std_17)
+target_include_directories(Arbit PRIVATE include)
+target_compile_features(Arbit PRIVATE cxx_std_17)
 
-target_link_libraries(deviant
+target_link_libraries(Arbit
     OpenSSL::SSL          
     OpenSSL::Crypto         
     pthread

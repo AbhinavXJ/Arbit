@@ -2,7 +2,8 @@
 
 Arbit is a modular trading and arbitrage engine integrating multiple exchange (Bitcoin, Bybit, Okx ) WebSocket clients, order book management, and performance monitoring, built with CMake.
 
-This is a modular C++ project using CMake for build management. The folder structure follows standard best practices.
+Demo video:
+
 
 ##  Folder Structure
 
