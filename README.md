@@ -1,6 +1,6 @@
 # Arbit -
 
-Arbit is a modular trading and arbitrage engine integrating multiple exchange (Bitcoin, Bybit, Okx ) WebSocket clients, order book management, and performance monitoring, built with CMake.
+Arbit is a modular trading and real time arbitrage engine integrating multiple exchange (Bitcoin, Bybit, Okx ) WebSocket clients, order book management, and performance monitoring, built with CMake.
 
 Demo video:
 
